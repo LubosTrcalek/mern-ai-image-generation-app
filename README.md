@@ -3,6 +3,7 @@
 
 
 >💡className="invert" // Inverts Black Icon to White!!!
+>💡npm run build > builds optimized production app in *dist* folder
 
 MidJourney and DALL-E are taking over social media. Dive into the world of artificial intelligence and build your own version of these tools that can generate everything from memes and art to beautiful UI/UX designs!
 
